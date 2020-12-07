@@ -1,8 +1,8 @@
 {
-  "name": "1_shared_resources",
+  "name": "1_no_types",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "orderQueue.js",
   "scripts": {
     "test": "jest"
   },
